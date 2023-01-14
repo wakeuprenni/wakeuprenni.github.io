@@ -1,0 +1,828 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-1047790124869633/9255107794",
+      "main_ads_intertitial":"ca-app-pub-1047790124869633/8584328450",
+      "native_for_admob":"ca-app-pub-1047790124869633/6687974612",
+      "backup_ads_banner":"8a14a350456a310f",
+      "backup_ads_intertitial":"ae062c699a179f5c",
+      "interval_intertitial": 2,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "More":
+  [
+    {
+      "id":1,
+      "title":"Wallpaper HD Natasha Wilona",
+      "image":"https://play-lh.googleusercontent.com/Z6Nvv_S7To1F85c7Tb_nGWuMIMH9xn_J2_3fwEd_79QmSuvIS0mEDDkEQuOfxgIM94k=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.iqdev.wallnatasha"
+    },
+    {
+      "id":2,
+      "title":"Wallpaper HD Amanda Manopo",
+      "image":"https://play-lh.googleusercontent.com/ERzy43DJostGRMf3YdBawctWkEqKK_FcX9ybc9vGewn0WTPh7z95Z4zT0t27WREQdac=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.iqdev.wallamanda"
+    },
+    {
+      "id":3,
+      "title":"Wallpepr HD Naisa Alifia Yuriza",
+      "image":"https://play-lh.googleusercontent.com/2M3jrzmROI8wjXv0kFGfUVfB9NzW8JzxumG9Fc8iGHfhsUn2Dv23sSYIxy1Qbl0vqmM=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.iqdev.wallnay"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Juyy Putri",
+      "image": "https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/001.jpg"
+
+    }
+  ],
+
+  "Data":
+  [
+    {
+      "id":1,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/001.jpg"
+    },
+    {
+      "id":2,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/002.jpg"
+    },
+    {
+      "id":3,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/003.jpg"
+    },
+    {
+      "id":4,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/004.jpg"
+    },
+    {
+      "id":5,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/005.jpg"
+    },
+    {
+      "id":6,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/006.jpg"
+    },
+    {
+      "id":7,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/007.jpg"
+    },
+
+    {
+      "id":8,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/008.jpg"
+    },
+    {
+      "id":9,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/009.jpg"
+    },
+    {
+      "id":10,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/010.jpg"
+    },
+    {
+      "id":11,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/011.jpg"
+    },
+    {
+      "id":12,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/012.jpg"
+    },
+    {
+      "id":13,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/013.jpg"
+    },
+    {
+      "id":14,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/014.jpg"
+    },
+    {
+      "id":15,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/015.jpg"
+    },
+    {
+      "id":16,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/016.jpg"
+    },
+    {
+      "id":17,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/017.jpg"
+    },
+    {
+      "id":18,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/018.jpg"
+    },
+
+    {
+      "id":19,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/019.jpg"
+    },
+    {
+      "id":20,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/020.jpg"
+    },
+    {
+      "id":21,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/021.jpg"
+    },
+    {
+      "id":22,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/022.jpg"
+    },
+    {
+      "id":23,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/023.jpg"
+    },
+
+    {
+      "id":24,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/024.jpg"
+    },
+    {
+      "id":25,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/025.jpg"
+    },
+    {
+      "id":26,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/026.jpg"
+    },
+    {
+      "id":27,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/027.jpg"
+    },
+    {
+      "id":28,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/028.jpg"
+    },
+    {
+      "id":29,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/029.jpg"
+    },
+    {
+      "id":30,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/030.jpg"
+    },
+    {
+      "id":31,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/031.jpg"
+    },
+    {
+      "id":32,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/032.jpg"
+    },
+    {
+      "id":33,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/033.jpg"
+    },
+    {
+      "id":34,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/034.jpg"
+    },
+    {
+      "id":35,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/035.jpg"
+    },
+    {
+      "id":36,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/036.jpg"
+    },
+    {
+      "id":37,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/037.jpg"
+    },
+    {
+      "id":38,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/038.jpg"
+    },
+    {
+      "id":39,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/039.jpg"
+    },
+    {
+      "id":40,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/040.jpg"
+    },
+    {
+      "id":41,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/041.jpg"
+    },
+    {
+      "id":42,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/042.jpg"
+    },
+    {
+      "id":43,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/043.jpg"
+    },
+    {
+      "id":44,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/044.jpg"
+    },
+    {
+      "id":45,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/045.jpg"
+    },
+    {
+      "id":46,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/046.jpg"
+    },
+    {
+      "id":47,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/047.jpg"
+    },
+    {
+      "id":48,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/048.jpg"
+    },
+    {
+      "id":49,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/049.jpg"
+    },
+    {
+      "id":50,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/050.jpg"
+    },
+    {
+      "id":51,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/051.jpg"
+    },
+    {
+      "id":52,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/052.jpg"
+    },
+    {
+      "id":53,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/053.jpg"
+    },
+    {
+      "id":54,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/054.jpg"
+    },
+    {
+      "id":55,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/055.jpg"
+    },
+    {
+      "id":56,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/056.jpg"
+    },
+    {
+      "id":57,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/057.jpg"
+    },
+    {
+      "id":58,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/058.jpg"
+    },
+    {
+      "id":59,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/059.jpg"
+    },
+    {
+      "id":60,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/060.jpg"
+    },
+    {
+      "id":61,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/061.jpg"
+    },
+    {
+      "id":62,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/062.jpg"
+    },
+    {
+      "id":63,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/063.jpg"
+    },
+    {
+      "id":64,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/064.jpg"
+    },
+    {
+      "id":65,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/065.jpg"
+    },
+    {
+      "id":66,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/066.jpg"
+    },
+    {
+      "id":67,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/067.jpg"
+    },
+    {
+      "id":68,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/068.jpg"
+    },
+    {
+      "id":69,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/069.jpg"
+    },
+    {
+      "id":70,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/070.jpg"
+    },
+    {
+      "id":71,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/071.jpg"
+    },
+    {
+      "id":72,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/072.jpg"
+    },
+    {
+      "id":73,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/073.jpg"
+    },
+    {
+      "id":74,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/074.jpg"
+    },
+    {
+      "id":75,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/075.jpg"
+    },
+    {
+      "id":76,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/076.jpg"
+    },
+    {
+      "id":77,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/077.jpg"
+    },
+    {
+      "id":78,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/078.jpg"
+    },
+    {
+      "id":79,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/079.jpg"
+    },
+    {
+      "id":80,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/080.jpg"
+    },
+    {
+      "id":81,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/081.jpg"
+    },
+    {
+      "id":82,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/082.jpg"
+    },
+    {
+      "id":83,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/083.jpg"
+    },
+    {
+      "id":84,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/084.jpg"
+    },
+    {
+      "id":85,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/080.jpg"
+    },
+    {
+      "id":86,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/086.jpg"
+    },
+    {
+      "id":87,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/087.jpg"
+    },
+    {
+      "id":88,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/088.jpg"
+    },
+    {
+      "id":89,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/089.jpg"
+    },
+    {
+      "id":90,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/090.jpg"
+    },
+    {
+      "id":91,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/091.jpg"
+    },
+    {
+      "id":92,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/092.jpg"
+    },
+    {
+      "id":93,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/093.jpg"
+    },
+    {
+      "id":94,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/094.jpg"
+    },
+    {
+      "id":95,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/095.jpg"
+    },
+    {
+      "id":96,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/096.jpg"
+    },
+    {
+      "id":97,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/097.jpg"
+    },
+    {
+      "id":98,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/098.jpg"
+    },
+    {
+      "id":99,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/099.jpg"
+    },
+    {
+      "id":100,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/100.jpg"
+    },
+    {
+      "id":101,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/101.jpg"
+    },
+    {
+      "id":102,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/102.jpg"
+    },
+    {
+      "id":103,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/103.jpg"
+    },
+    {
+      "id":104,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/104.jpg"
+    },
+    {
+      "id":105,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/105.jpg"
+    },
+    {
+      "id":106,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/106.jpg"
+    },
+    {
+      "id":107,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/107.jpg"
+    },
+    {
+      "id":108,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/108.jpg"
+    },
+    {
+      "id":109,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/109.jpg"
+    },
+    {
+      "id":110,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/110.jpg"
+    },
+    {
+      "id":111,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/111.jpg"
+    },
+    {
+      "id":112,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/112.jpg"
+    },
+    {
+      "id":113,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/113.jpg"
+    },
+    {
+      "id":114,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/114.jpg"
+    },
+    {
+      "id":115,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/115.jpg"
+    },
+    {
+      "id":116,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/116.jpg"
+    },
+    {
+      "id":117,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/117.jpg"
+    },
+    {
+      "id":118,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/118.jpg"
+    },
+    {
+      "id":119,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/119.jpg"
+    },
+    {
+      "id":120,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/120.jpg"
+    },
+    {
+      "id":121,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/121.jpg"
+    },
+    {
+      "id":122,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/122.jpg"
+    },
+    {
+      "id":123,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/123.jpg"
+    },
+    {
+      "id":124,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/124.jpg"
+    },
+    {
+      "id":125,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/125.jpg"
+    },
+    {
+      "id":126,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/126.jpg"
+    },
+    {
+      "id":127,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/127.jpg"
+    },
+    {
+      "id":128,
+      "name_category": "Juyy Putri ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/juyy/128.jpg"
+    }
+  ]
+}

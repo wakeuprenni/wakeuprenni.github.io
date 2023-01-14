@@ -1,0 +1,252 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-1047790124869633/2423688716",
+      "main_ads_intertitial":"ca-app-pub-1047790124869633/6362933720",
+      "native_for_admob":"ca-app-pub-1047790124869633/5049852056",
+      "backup_ads_banner":"8d9ff07b4ba5ec41",
+      "backup_ads_intertitial":"0ffae15aaf896352",
+      "interval_intertitial": 2,
+      "initialize_sdk":"107355779x",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "More":
+  [
+    {
+      "id":1,
+      "title":"Wallpaper HD Natasha Wilona",
+      "image":"https://play-lh.googleusercontent.com/Z6Nvv_S7To1F85c7Tb_nGWuMIMH9xn_J2_3fwEd_79QmSuvIS0mEDDkEQuOfxgIM94k=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.iqdev.wallnatasha"
+    },
+    {
+      "id":2,
+      "title":"Wallpaper HD Amanda Manopo",
+      "image":"https://play-lh.googleusercontent.com/ERzy43DJostGRMf3YdBawctWkEqKK_FcX9ybc9vGewn0WTPh7z95Z4zT0t27WREQdac=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.iqdev.wallamanda"
+    },
+    {
+      "id":3,
+      "title":"Wallpepr HD Naisa Alifia Yuriza",
+      "image":"https://play-lh.googleusercontent.com/2M3jrzmROI8wjXv0kFGfUVfB9NzW8JzxumG9Fc8iGHfhsUn2Dv23sSYIxy1Qbl0vqmM=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.iqdev.wallnay"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Sisca Khol",
+      "image": "https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/siscakhol/001.jpg"
+
+    }
+  ],
+
+  "Data":
+  [
+    {
+      "id":1,
+      "name_category": "Sisca Khol",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/siscakhol/001.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "Sisca Khol",
+      "title": "",
+      "image": "https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/siscakhol/002.jpg"
+    },
+    {
+      "id":3,
+      "name_category": "Sisca Khol",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/siscakhol/003.jpg"
+    },
+    {
+      "id":4,
+      "name_category": "Sisca Khol ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/siscakhol/004.jpg"
+    },
+    {
+      "id":5,
+      "name_category": "Sisca Khol ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/siscakhol/005.jpg"
+    },
+    {
+      "id":6,
+      "name_category": "Sisca Khol ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/siscakhol/006.jpg"
+    },
+    {
+      "id":7,
+      "name_category": "Sisca Khol ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/siscakhol/007.jpg"
+    },
+
+    {
+      "id":8,
+      "name_category": "Sisca Khol ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/siscakhol/008.jpg"
+    },
+    {
+      "id":9,
+      "name_category": "Sisca Khol ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/siscakhol/009.jpg"
+    },
+    {
+      "id":10,
+      "name_category": "Sisca Khol ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/siscakhol/010.jpg"
+    },
+    {
+      "id":11,
+      "name_category": "Sisca Khol ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/siscakhol/011.jpg"
+    },
+    {
+      "id":12,
+      "name_category": "Sisca Khol ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/siscakhol/012.jpg"
+    },
+    {
+      "id":13,
+      "name_category": "Sisca Khol ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/siscakhol/013.jpg"
+    },
+    {
+      "id":14,
+      "name_category": "Sisca Khol ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/siscakhol/014.jpg"
+    },
+    {
+      "id":15,
+      "name_category": "Sisca Khol ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/siscakhol/015.jpg"
+    },
+    {
+      "id":16,
+      "name_category": "Sisca Khol ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/siscakhol/016.jpg"
+    },
+    {
+      "id":17,
+      "name_category": "Sisca Khol ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/siscakhol/017.jpg"
+    },
+    {
+      "id":18,
+      "name_category": "Sisca Khol ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/siscakhol/018.jpg"
+    },
+
+    {
+      "id":19,
+      "name_category": "Sisca Khol ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/siscakhol/019.jpg"
+    },
+    {
+      "id":20,
+      "name_category": "Sisca Khol ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/siscakhol/020.jpg"
+    },
+    {
+      "id":21,
+      "name_category": "Sisca Khol ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/siscakhol/021.jpg"
+    },
+    {
+      "id":22,
+      "name_category": "Sisca Khol ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/siscakhol/022.jpg"
+    },
+    {
+      "id":23,
+      "name_category": "Sisca Khol ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/siscakhol/023.jpg"
+    },
+
+    {
+      "id":24,
+      "name_category": "Sisca Khol ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/siscakhol/024.jpg"
+    },
+    {
+      "id":25,
+      "name_category": "Sisca Khol ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/siscakhol/025.jpg"
+    },
+    {
+      "id":26,
+      "name_category": "Sisca Khol ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/siscakhol/026.jpg"
+    },
+    {
+      "id":27,
+      "name_category": "Sisca Khol ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/siscakhol/027.jpg"
+    },
+    {
+      "id":28,
+      "name_category": "Sisca Khol ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/siscakhol/028.jpg"
+    },
+    {
+      "id":29,
+      "name_category": "Sisca Khol ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/siscakhol/029.jpg"
+    },
+    {
+      "id":30,
+      "name_category": "Sisca Khol ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/siscakhol/030.jpg"
+    },
+    {
+      "id":31,
+      "name_category": "Sisca Khol ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/siscakhol/031.jpg"
+    },
+    {
+      "id":32,
+      "name_category": "Sisca Khol ",
+      "title":"",
+      "image":"https://raw.githubusercontent.com/iqdev97/iqdev97.github.io/master/gambar/siscakhol/032.jpg"
+    }
+  ]
+}
